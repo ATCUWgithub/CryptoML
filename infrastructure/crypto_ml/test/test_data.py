@@ -14,7 +14,6 @@ from data import DataRaw
 from data import OrderType
 
 
-
 # TODO: Document test
 def test_pass_data_raw():
 	dict_ts = _datetime.time(12, 30, 12)
